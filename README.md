@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juseung-lee-a376191b0/)](www.linkedin.com/in/주승ㅣjuseung-lee-이-a376191b0)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juseung-lee-a376191b0/)](https://www.linkedin.com/in/주승ㅣjuseung-lee-이-a376191b0)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-black?logo=twitter&link=https://twitter.com/jslee_)](https://twitter.com/jslee_)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:smiloop.dev@gmail.com)](mailto:smiloop.dev@gmail.com)
 </div>
