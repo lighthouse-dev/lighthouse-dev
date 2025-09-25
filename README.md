@@ -1,7 +1,8 @@
 <div align=center>
-  [![Tech Blog Badge](https://img.shields.io/badge/Blog-black?logo=github&link=https://lighthouse-dev.github.io)](https://qiita.com/lighthouse)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juseung-lee-a376191b0/)](https://www.linkedin.com/in/주승ㅣjuseung-lee-이-a376191b0)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-black?logo=twitter&link=https://twitter.com/jslee_)](https://x.com/_L1ghthouse_)
+	
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-black?logo=github&link=https://lighthouse-dev.github.io)](https://qiita.com/lighthouse)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juseung-lee-a376191b0/)](https://www.linkedin.com/in/주승ㅣjuseung-lee-이-a376191b0)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-black?logo=twitter&link=https://twitter.com/jslee_)](https://x.com/_L1ghthouse_)
 </div>
 	
 <!--
